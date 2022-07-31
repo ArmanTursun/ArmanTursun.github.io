@@ -71,7 +71,9 @@ content:
         #quote: >
           #Established in 1636.
         description: | # this will include new lines to allow paragraphs
-          After graduation from master course, I am currently working as a research assistant in the same lab. Current research topic is wireless communication, massive MIMO and mmWave communication.
+          After graduation from master course, I am currently working as a research assistant in the same lab of the Graduate School of Engineering.
+          
+          Current research topic is wireless communication, massive MIMO and mmWave communication.
           
           Playing with FPGA boards every day!
           
