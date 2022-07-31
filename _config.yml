@@ -67,10 +67,13 @@ content:
       - layout: left
         title: University of Tokyo
         caption: Apr.2022 - Present
-        sub_title: Project Researcher 
+        sub_title: Project Research Assistant 
         #quote: >
           #Established in 1636.
         description: | # this will include new lines to allow paragraphs
+          After graduation from master course, I am currently working as a research assistant in the same lab. Current research topic is wireless communication, massive MIMO and mmWave communication.
+          
+          Playing with FPGA boards every day!
           
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -78,7 +81,7 @@ content:
       - layout: left
         title: University of Tokyo
         caption: Apr.2020 - Apr.2022
-        sub_title: M.E Computer Science
+        sub_title: M.S Applied Computer Science
         #quote: >
           #Established in 1636.
         description: | # this will include new lines to allow paragraphs
