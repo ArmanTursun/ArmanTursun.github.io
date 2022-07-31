@@ -85,7 +85,7 @@ content:
         #quote: >
           #Established in 1636.
         description: | # this will include new lines to allow paragraphs
-          I got my M.E in the [Graduate School of Interdisciplinary Information Science](https://www.iii.u-tokyo.ac.jp/). Supervised by Professor [Akihiro Nakao](https://www.sys.t.u-tokyo.ac.jp/en/memberpage/2151) from [Nakao Lab](https://www.nakao-lab.org/).
+          I got my M.S in the [Graduate School of Interdisciplinary Information Science](https://www.iii.u-tokyo.ac.jp/). Supervised by Professor [Akihiro Nakao](https://www.sys.t.u-tokyo.ac.jp/en/memberpage/2151) from [Nakao Lab](https://www.nakao-lab.org/).
 
           I am broadly interested in networks and systems, more specifically in SDN; also like network analyzing using ML methods.
 
