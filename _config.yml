@@ -1,39 +1,44 @@
+
 # Site
-repository: sproogen/resume-theme
+repository: ArmanTursun/cv
 favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Arman Tursun
+title: Pacifist, Antiracist, Environmentalist 
+#[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Farmantursun.github.io%2Fcv%2F&count_bg=%23848181&title_bg=%230B0B0B&icon=myspace.svg&icon_color=%23EDE8E8&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
+#hit: false
+#phone: +81 80-xxxx-xxxx
+email: armantursun@g.ecc.u-tokyo.ac.jp
+#address: Hongo, Bunkyo-ku, Tokyo
+#website: https://github.com/ArmanTursun
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+# twitter_username: facespics
+github_username:  ArmanTursun
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
-# facebook_username: jekyll
+facebook_username: arman5655
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+instagram_username: iamarmantursun
+linkedin_username: armantursun
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+#additional_links:
+#- title: itsgoingto.be
+#  icon: fas fa-globe
+#  url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -46,78 +51,253 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile2.PNG
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  An [Uyghur](https://en.wikipedia.org/wiki/Uyghurs#:~:text=The%20Uyghurs%20are%20recognized%20as,the%20titular%20people%20of%20Xinjiang.), ethnic minority in Central Asia, from [Ili](https://en.wikipedia.org/wiki/Ili_Kazakh_Autonomous_Prefecture) prefecture, China.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  <mark>Arman Tursun</mark> is pronunced as /ɑːrmʌn tuːrsʊn/. You may also see it written in Chinese pronunciation as <mark>Aerman Tuerxun</mark>, but I don't quite like it and I prefer <mark>Arman Tursun</mark> in the daily life.
+
+  Currently, I live in [Tokyo](https://www.gotokyo.org/en/index.html), an amazing modern city full of life stress.
+
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
-  - title: Experience # Title for the section
+  - title: Work Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        title: University of Tokyo
+        caption: Apr.2022 - Present
+        sub_title: Project Researcher 
+        #quote: >
+          #Established in 1636.
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-
+          
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        title: University of Tokyo
+        caption: Apr.2020 - Apr.2022
+        sub_title: M.E Computer Science
+        #quote: >
+          #Established in 1636.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          I got my M.E in the [Graduate School of Interdisciplinary Information Science](https://www.iii.u-tokyo.ac.jp/). Supervised by Professor [Akihiro Nakao](https://www.sys.t.u-tokyo.ac.jp/en/memberpage/2151) from [Nakao Lab](https://www.nakao-lab.org/).
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          I am broadly interested in networks and systems, more specifically in SDN; also like network analyzing using ML methods.
+
+          My recent work is in the area of Network Sclicing, Local 5G, and Network Intelligence.
+      - layout: left
+        title: University of Tokyo
+        caption: Apr.2019 - Mar.2020
+        sub_title: Research Student
+        #quote: >
+          #Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          I spent one year as research student in [Nakao Lab](https://www.nakao-lab.org/) working with Professor [Akihiro Nakao](https://www.sys.t.u-tokyo.ac.jp/en/memberpage/2151).
+
+          During my time as research student, I was mainly preparing for my entrance exam as well as catching up most recent research in 5G.
+      - layout: left
+        title: University of Science and Technology of China
+        caption: Sept.2014 - June.2018
+        sub_title: B.E Information Security
+        #quote: >
+        #Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          I got my B.E in [School of Information Science and Technology](https://en.sist.ustc.edu.cn/) at the [University of Science and Technology of China](http://en.ustc.edu.cn/)
+
+          Graduation Thesis: Routing Algorithm in Disaster Relief Based on NDN Networks.
+
+          I spent an incredible four years with lovely classmates and friends.
+
+
+  - title: Publication # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top
+        title: Design and Manufacture of Narrow-Band BPF for Local 5G Network Slicing
+        #link: [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9492547)
+        #link_text: [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9492547)
+        #additional_links:
+        #- title:  sproogen/modern-resume-theme
+          #icon: fab fa-github
+          #url: github.com/sproogen/modern-resume-theme
+        #quote: >
+          #Aerman Tuerxun, Ping Du, Junji Yumoto, Akihiro Nakao, 4th International Workshop on Advances in Slicing forSoftwarized Infrastructures, IEEE International Conference on Network Softwarization, 2021.
+        description: | # this will include new lines to allow paragraphs
+          Aerman Tuerxun, Ping Du, Junji Yumoto, Akihiro Nakao, 4th International Workshop on Advances in Slicing forSoftwarized Infrastructures, IEEE International Conference on Network Softwarization, 2021. [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9492547)
+
+      - layout: top
+        title: Analysis on Route Information Failure in IP Core Networks by NFV-Based Test Environment
+        description: | # this will include new lines to allow paragraphs
+          Fei Xia, Aerman Tuerxun, Jiaxing Lu. Ping Du, Akihiro Nakao, ITU Journal on Future and Evolving Technologiesspecial issue on AI and machine learning solutions in 5G and future networks, 2021. [pdf](https://www.itu.int/dms_pub/itu-s/opb/jnl/S-JNL-VOL2.ISSUE4-2021-A09-PDF-E.pdf)
+
+      - layout: top
+        title: Automatic Check-In Service at Businesses Enabled with Private Mobile Networks
+        description: | # this will include new lines to allow paragraphs
+            Ping Du, Aerman Tuerxun, Anan Sawabe, Takanori Iwai, Akihiro Nakao, IEEE Global CommunicationsConference (Globecom), 2020. [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9348115)
+
+      - layout: top
+        title: MANET for Disaster Relief Based on NDN
+        description: | # this will include new lines to allow paragraphs
+            Yang Jin, Xiaobin Tan, Weiwei Feng, Jinyang Lv, Aerman Tuerxun, Kunpeng Wang, 2018 1st IEEE InternationalConference on Hot Information-Centric Networking (HotICN). IEEE, 2018. [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8605969)
+
+  - title: Research and Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: RF & Mircowave
+        #link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: University of Tokyo
+        caption: Sept.2020 - Present
+         # this will include new lines to allow paragraphs
+        quote: >
+          BPF Design and Implementing Using 3D Printing
+        description: |
+          Network slicing is considered one of the critical technologies of the fifth-generation (5G) mobile networks. Especially in Local 5G networks, narrowband spectrum allocation appears to be particularly important to ensure that one slice does not affect other slices. Band Pass Filter (BPF) is one of the essential components to isolate the spectrum resource of each Local 5G RAN slice. However, it is not easy to buy a BPF with a narrow band frequency on the market. Moreover, due to complicated manufacturing procedures, the price of BPF is usually very high, which increases the cost of establishing a Local 5G base station for small enterprises. In our design, we present a simple waveguide filter based on the theoretical principles of a low-pass prototype of Chebyshev approximation. The waveguide filter is designed with a center frequency at 4.75 GHz and narrow bandwidth of 100MHz. After simply forging and evaluation, experimental results prove the feasibility of our method in the processing of low-cost narrowband BPFs.
+
+      - layout: left
+        title: Network Analysis
+        sub_title: University of Tokyo
+        caption: Feb.2020 - Aug.2020
+        quote: >
+          Analyzing of Private Networks Check In-Out Log Data
+        description: |
+          Private mobile networks such as private LTE/local 5G, which support flexibly configured and empowered, innovative technologies that are not feasible in closed public mobile networks recently, have been catching much attention in academia and industries. In this paper, we design and implement the automatic check-in service as an example of value-added services of private mobile networks utilizing the flexibility of softwarization. To alleviate the inherent coverage problem of a private mobile network, we integrate our private mobile network with a public LTE by sharing the subscriber database so that a user can use the automatic check-in services deployed in various private mobile networks with only one SIM issued by a public network. Furthermore, we perform field tests in a private mobile network and a private-public hybrid mobile network and disclose that the users’ check-out behavior is predictable through numerical analyses. Based on the finding, we introduce two machine learning-based inference mechanisms that can predict a user’s check-out behavior at an inference accuracy of 83% and 93% in a private network and a hybrid one separately. We believe this paper can provide valuable experience for those who are developing their private mobile networks.
+
+      - layout: left
+        title: Network Analysis
+        sub_title: University of Tokyo
+        caption: July.2020 - Dec.2020
+        quote: >
+          Features Extraction and Analyzing on Route Information
+        description: |
+          Stable and high-quality Internet connectivity is mandatory for 5G mobile networks. However, the pandemic of COVID-19 has forced global and large-scale staying at home and telecommuting in many countries. The increasing traﬀic has induced more pressure on networks, devices, and cloud data centers. Therefore, it becomes an essential task for network operators to enable their ability to automatically and rapidly detect network and device failures. We propose an efficient method based on highly practical technology. Our method has a high generalization ability that efficiently extracts features from large-scale unstructured data and ensures high accuracy prediction. First, 997 useful features are extracted from 28GB-per-day network logs. Then, a differential approach is employed to preprocess the extracted features to highlight the differences between normal and abnormal states. Third, those features are refined based on the feature importance we calculated. According to our experiment, the proposed feature extraction and refinement method can reduce computation without degrading the performance. Among the five types of failures, we achieve a 100% recall rate in four types, and the rest can also reach 71%. Overall, the total average prediction accuracy of the proposed method is 94%.
+
+      - layout: left
+        title: NLP
+        sub_title: Doctoral Institute for Evidence Based Policy
+        link: https://www.doctoral.co.jp/
+        caption: Apr.2020 - Present
+        quote: >
+          Children Abuse Detection Based on Interviewing Data Using NLP
+        description: |
+          In cooperation with experts who have extensive knowledge on child abuse and child-rearing support, we provide proposals based on evidence obtained through questionnaires and interviews for effective measures to be taken by local governments, child guidance centers, child welfare facilities, Etc. In addition, we have prepared manuals, case studies, and other tools that are useful in the field. Use machine learning technique BERT for NLP to detect children abuse based on children and parents interviewing data or questionnaires.
+
+      - layout: left
+        title: CNN
+        sub_title: Doctoral Institute for Evidence Based Policy
+        link: https://www.doctoral.co.jp/
+        caption: Dec.2019 - Nov.2020
+        quote: >
+          Japanese Characters Recognition on Whiteboard Data Collection
+        description: |
+          Use the CNN-based machine learning method to collect, recognize, and summarize data written on the whiteboard with Japanese characters in The East Japan Ministry of Agriculture, Forestry, and Fisheries. We have developed a system that can extract the necessary data from images taken with a smartphone. Even for handwritten text, which is considered difficult to process by OCR, the system can correct the tilt of the photo, Etc., and then use deep learning to read the image of the cut-out numbers and convert them into data.
+
+      - layout: left
+        title: NDN Routing
+        sub_title: University of Science and Technology of China
+        #link_text: [ EBP ](https://www.doctoral.co.jp/)
+        caption: Oct.2017 - May.2018
+        quote: >
+          Implementing NDN Based Routing on Raspberry Pi
+        description: |
+          There is an acute need for reliable/efficient communication and content distribution during the disaster relief situation, supported by Mobile Ad hoc Networks (MANET) and Delay Tolerant Networks (DTN). Traditional IP protocol performs inefficiently in MANET, while Named Data Networking (NDN) can be more beneficial because of many inbuilt features. We propose a solution to adopt NDN for communication in the specific context of disaster relief. Firstly, we propose a proactive routing protocol that is also reactive-routing-enabled. Every node broadcasts its existence to neighbors and synchronizes the Network Information Base to update its FIB. A universal entry set in FIB can be used to probe potential paths. It also remains multiple next-hops for every prefix in FIB in order to support multipath forwarding. Secondly, duplicating or splitting the queue of Interests at a node can utilize multipath to improve transmission reliability or efficiency. For the convenience of future work, our experiments are carried out in a real platform consisting of some smart cars equipped with Raspberry Pi. Evaluation results show our solution can build a communication network and support multipath forwarding with high reliability/efficiency in a disaster relief scenario.
+
+  - title: Teaching Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: About Teaching
+        description: >
+            I love teaching, and this may be because my parents are both teachers. I like to help students with their courses and homework. Although I have not tried TA before, I do want to experience it in my Ph. D. Also, I hope to be a professor in the college one day, spreading the most cutting-edge knowledge to students.
+      - layout: left
+        title: Lecturer
+        sub_title: Kakuchi Academy, Tokyo, Japan
+        caption: 2019 - Present
+        quote: >
+            Lecturer of Algorithm, Computer Networks and Computer System
+        description: |
+            I have been a lecture of Information Science courses at Kakuchi Academy, Tokyo, Japan. I have already helped over 40 international undergraduate students pass the entrance exam of graduate schools.
+
+      - layout: left
+        title: Tutor
+        sub_title: USTC, Anhui, China
+        caption: 2016 - 2018
+        quote: >
+            Tutoring Mathematics, Physics and Programming for High School Students.
+        description: |
+            When I was in college, I was a tutor in college tutoring center. I tutored 15 high school students in Mathematics, Physics and Programming.
+
+  - title: Community Involvement # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Countribute Back
+        description: >
+          We get a lot from society, and sometimes we need to give back. A person who does not know how to be grateful and give back will eventually be abandoned by this society.
+
+          I hoped to volunteer in the 2020 Tokyo Olympic Games, but unfortunately, I could not participate because of the pandemic.
+      - layout: left
+        title: Network Service
+        sub_title: ThreePro Group Inc (GiG Works Inc), Tokyo, Japan
+        caption: 2018 - 2019
+        quote: >
+          Online Network Service for Students in Hotels and Dormitories.
+        description: |
+          After I came to Japan, I helped international students in hotels or dormitories dealing with the trouble they were faced with network or WI-FI.
+      - layout: left
+        title: Volunteering
+        sub_title: USTC, Anhui, China
+        caption: 2015 - 2018
+        quote: >
+          Volunteering in Fangcao Young Volunteers Association of USTC
+        description: |
+          We go to the elderly home about once every two weeks to help them clean up. Or we visit children with leukemia and play games and learn with them.
+
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+        By now, I can speak in four languages:
+          - Uyghur: Native (Mother Tongue, awesome right? :))
+          - English: Proficient (Trying to speak as native as I can.)
+          - Mandarin: Bilungual  (Born and grew up there, so ...)
+          - Japanese: Fair (Passive though)
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+        Because of some ethnic relation between Turkic ethnics in Middle Asia, I also can understand like 50,60% of Uzbek, Kazakh, Turkish, ...
+
+        I want to learn more languages, go to more countries, and experience more cultures.
+        
+        ![turkic](/cv/images/turkic.jpg "turkic")
+
+        Alongside my interests in networks and systems engineering some of my other interests and hobbies are:
+          - Bodybuilding (Well, I have to say I used to work out almost every day, but the pandemic made me back to 100kG ...)
+          - Sports (Basketballs, Football, Soccer, F1, ... I can't swim though)
+          - Men's Fragrance (I love it, I love it, I just love it)
+
+        ![body](/cv/images/body.png "body") ![sports](/cv/images/sports.jpg "sports") ![fragrance](/cv/images/fragrance.jpg "fragrance")
+
+        Huge fan of Barcelona Football Club and The GOAT Messi !!!
+        Visca El Barça !!!
+
+        ![camp nou](/cv/images/camp nou.jpg "camp nou")   ![messi](/cv/images/messi.jpg "messi")
+
+  - title: In the Process of Updating
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      :)
+#Look at this cool image
+#![Trees](/cv/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
+references_title: References on JamesGrand
 
 # Build settings
-remote_theme: sproogen/resume-theme
+remote_theme: ArmanTursun/modern-resume-theme
+#remote_theme: sproogen/modern-resume-theme
 
 sass:
   sass_dir: _sass
@@ -125,3 +305,16 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+ 
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ]
