@@ -287,7 +287,9 @@ content:
         Huge fan of Barcelona Football Club and The GOAT Messi !!!
         Visca El Barça !!!
 
-        ![camp nou](/images/camp nou.jpg "camp nou")   ![messi](/images/messi.jpg "messi")
+        ![camp nou](/images/camp nou.jpg "camp nou")   
+        
+        ![messi](/images/messi.jpg "messi")
 
   - title: In the Process of Updating
     layout: text
