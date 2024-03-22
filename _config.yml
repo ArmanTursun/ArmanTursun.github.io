@@ -66,20 +66,31 @@ content:
     content:
       - layout: left
         title: University of Tokyo
-        caption: Apr.2022 - Present
+        caption: Apr.2022 - Mar.2022
         sub_title: Project Research Assistant 
         #quote: >
           #Established in 1636.
         description: | # this will include new lines to allow paragraphs
-          After graduation from master course, I am currently working as a research assistant in the same lab of the Graduate School of Engineering.
+          After graduation from master course, I worked as a research assistant for one year in the same lab of the Graduate School of Engineering.
           
-          Current research topic is wireless communication, massive MIMO and mmWave communication.
+          The research topic is wireless communication, massive MIMO and mmWave communication.
           
           Playing with FPGA boards every day!
           
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: left
+        title: University of Tokyo
+        caption: Apr.2023 - Present
+        sub_title: D.E in System Innovation
+        #quote: >
+          #Established in 1636.
+        description: | # this will include new lines to allow paragraphs
+          I am currently pursuing my doctoral degree in [Department of System Innovation](https://www.sys.t.u-tokyo.ac.jp/en/?lang=en), [Graduate School of Engineering](https://www.u-tokyo.ac.jp/en/academics/grad_engineering.html), supervised by Professor [Akihiro Nakao](https://www.sys.t.u-tokyo.ac.jp/en/memberpage/2151) from [Nakao Lab](https://www.nakao-lab.org/).
+
+          My current research is about hardware acceleration in Radio Access Network (RAN). We offload low physical layer functions such as FEC to FPGA and design a contextually smart workload offloading scheme so as to achive optimal cumputing resource allocation in RAN system. 
+    
       - layout: left
         title: University of Tokyo
         caption: Apr.2020 - Apr.2022
@@ -150,12 +161,25 @@ content:
   - title: Research and Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
+
+      - layout: left
+        title: Hardware Acceleration
+        #link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: University of Tokyo
+        caption: Apr.2022 - Present
+         # this will include new lines to allow paragraphs
+        quote: >
+          FPGA-based hardware acceleration in RAN
+        description: |
+          As Radio Access Networks (RANs) evolve towards more intelligent and software-defined paradigms, an increasing number of workloads are being offloaded to hardware accelerators. A significant challenge in this context is to minimize CPU consumption while ensuring low and stable latency in processing acceleration. Tailoring load allocation to meet varying latency requirements in different application scenarios is essential. In this paper,  we present an application of RF Network on Chip (RFNoC) technology for FPGA-based acceleration of Low-Density Parity-Check (LDPC) code and Polar code. We conduct a comparative analysis of CPU and FPGA processing performance in OpenAinInterface (OAI) platform, with and without the Data Plane Development Kit (DPDK), to determine optimal load allocation for diverse data requirements. The findings indicate that RFNoC serves as an effective FPGA accelerator for the LDPC process, offering up to a fivefold increase in acceleration and significantly reducing processing delay jitter. Furthermore, the experimental outcomes provide a foundation for future research endeavors, specifically in the realm of efficient load optimization strategies.
+      
       - layout: left
         title: RF & Mircowave
         #link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: University of Tokyo
-        caption: Sept.2020 - Present
+        caption: Sept.2020 - Mar.2022
          # this will include new lines to allow paragraphs
         quote: >
           BPF Design and Implementing Using 3D Printing
