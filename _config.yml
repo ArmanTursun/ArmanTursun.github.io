@@ -240,11 +240,11 @@ content:
       - layout: top-middle
         title: About Teaching
         description: >
-            I love teaching, and this may be because my parents are both teachers. I like to help students with their courses and homework. Although I have not tried TA before, I do want to experience it in my Ph. D. Also, I hope to be a professor in the college one day, spreading the most cutting-edge knowledge to students.
+            I love teaching, and this may be because my parents are both teachers. I like to help students with their courses and homework. And teaching really can help me to review what I learned before.
       - layout: left
         title: Lecturer
         sub_title: Kakuchi Academy, Tokyo, Japan
-        caption: 2019 - Present
+        caption: 2019 - 2024
         quote: >
             Lecturer of Algorithm, Computer Networks and Computer System
         description: |
